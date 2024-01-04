@@ -17,6 +17,9 @@ ru:
   kanban_label_within_2_months: "в течение последних 2 месяцев"
   kanban_label_within_3_months: "в течение последних 3 месяцев"
 
+  kanban_label_plan_starts_at: "План старт"
+  kanban_label_plan_ends_at: "План окончание"
+
   kanban_label_recent_history_is_here: "Здесь будет показана недавняя история"
   kanban_label_recent_history: "Последние записи"
   kanban_label_add_notes: "Добавить запись"
